@@ -1,3 +1,4 @@
 Este archivo fue creado desde la terminal de VS Code. 
 Se actualiza el archivo con una segunda linea
 Nueva linea agregada desde VS Code
+Editamos el archivo cambios.txt en el quinto momento.
